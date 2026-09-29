@@ -20,3 +20,5 @@ POSSIBLE IMPROVEMENTS
 -Prevent division by zero and empty lists
 -Use f strings for cleaner print statements
 -Simplify passing logic
+
+Owner: Gavin Byers| Computer Information Systems major @ Georgia State
