@@ -34,3 +34,6 @@ if average >= 70:
 else:
     status = "Not Passing"
 print("Status:", status)
+
+
+
